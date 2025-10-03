@@ -21,4 +21,8 @@ You can test the API using **Postman**. The examples below show the predictions:
 <img width="1935" height="1010" alt="image" src="https://github.com/user-attachments/assets/c211821d-424f-4850-bda0-ca826fece868" />
 
   *Example of a tweet classified as positive sentiment.*
+-----
 
+https://documenter.getpostman.com/view/45055428/2sB3QGtreg
+
+----
